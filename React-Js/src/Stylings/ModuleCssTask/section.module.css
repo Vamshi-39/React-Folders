@@ -1,0 +1,24 @@
+.section{
+    height: 75%;
+    width: 75%;
+    background-color: rgb(94, 94, 129);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 200%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.section:hover{
+    height: 25%;
+    width: 75%;
+    background-color: rgb(26, 26, 124);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 200%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}

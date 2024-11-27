@@ -1,0 +1,24 @@
+.aside{
+    height: 75%;
+    width: 25%;
+    background-color: greenyellow;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 200%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.aside:hover{
+    height: 25%;
+    width: 75%;
+    background-color: rgb(40, 51, 23);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 200%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}

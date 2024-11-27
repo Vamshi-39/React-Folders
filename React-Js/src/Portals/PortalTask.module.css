@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    border: 2px solid black;
+    color: white;
+}
+#back-btn{
+    border: 2px solid navy;
+}
